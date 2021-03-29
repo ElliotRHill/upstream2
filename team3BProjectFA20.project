@@ -26,6 +26,22 @@
             "Form1",
             "Form1.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "DemoSelectAccount",
+            "DemoSelectAccount.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "DemoInsertProduct",
+            "DemoInsertProduct.json"
+          ]
         }
       ],
       "configxml": null,
